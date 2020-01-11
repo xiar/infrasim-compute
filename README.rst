@@ -3,10 +3,11 @@ Infrasim-compute: bare-metal server simulator
 
 |Version| |Downloads|
 
+
 System Basic Requirements
 -------------------------
 
-Infrasim package can be installed in any physical machine or virtual
+infrasim package can be installed in any physical machine or virtual
 machines hosted by Virtualbox, ESXi, Parallel Desktop or cloud provider
 like AWS, Linode and etc.
 
